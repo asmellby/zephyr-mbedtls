@@ -23,7 +23,7 @@
 #define PSA_CRYPTO_SE_DRIVER_H
 #include "mbedtls/private_access.h"
 
-#include "crypto_driver_common.h"
+#include "psa/crypto_driver_common.h"
 
 #ifdef __cplusplus
 extern "C" {

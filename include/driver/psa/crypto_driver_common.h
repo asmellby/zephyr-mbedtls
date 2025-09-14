@@ -28,8 +28,8 @@
 /* Include type definitions (psa_status_t, psa_algorithm_t,
  * psa_key_type_t, etc.) and macros to build and analyze values
  * of these types. */
-#include "crypto_types.h"
-#include "crypto_values.h"
+#include "psa/crypto_types.h"
+#include "psa/crypto_values.h"
 /* Include size definitions which are used to size some arrays in operation
  * structures. */
 #include <psa/crypto_sizes.h>
